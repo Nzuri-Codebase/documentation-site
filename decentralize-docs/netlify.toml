@@ -1,3 +1,6 @@
 [build]
   command = "npm run build"
+  publish = "build"[build]
+  base = "decentralize-docs"
+  command = "npm run build"
   publish = "build"
