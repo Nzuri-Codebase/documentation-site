@@ -1,6 +1,0 @@
-site_name: Nzuri Strategy Documentation Site
-theme:
-  name: readthedocs
-nav:
-  - Home: index.md
-  - About: about.md
